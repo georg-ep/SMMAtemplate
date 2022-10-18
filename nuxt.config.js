@@ -16,6 +16,8 @@ export default {
     ]
   },
 
+  target: 'static',
+
   buildModules: [
     '@nuxtjs/google-fonts'
   ],
